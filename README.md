@@ -1,6 +1,6 @@
 # Sidnei Domingues
 
-**Desenvolvedor Full Stack — Next.js · TypeScript · Supabase · Orquestração de agentes de IA**
+**Orquestração de agentes de IA · Desenvolvedor Full Stack — Next.js · TypeScript · Supabase**
 
 Construí e mantenho uma plataforma healthtech em produção, com usuários reais: **ERP clínico** (Next.js App Router, TypeScript, ~36k linhas de produto, 46 server actions como camada única de escrita, razão teste/produto de 0,54 com Vitest e Playwright) e **assistente com RAG híbrido** (pgvector + keyword, ingestão de documentos com embeddings, transcrição de áudio via Whisper — edge functions em Deno/TypeScript).
 
